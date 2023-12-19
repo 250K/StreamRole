@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "discord-addons": "^1.0.8",
-    "discord.js": "^12.5.1"
+    "discord.js": "^13.14.0"
   }
 }
